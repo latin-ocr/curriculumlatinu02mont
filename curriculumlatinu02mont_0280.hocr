@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./curriculumlatinu02mont_0280.png"; bbox 0 0 1414 2666; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 186 149 1355 209">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 186 149 1355 209">
+     <span class='ocr_line' id='line_1_1' title="bbox 186 149 1355 209; baseline 0.008 -23"><span class='ocrx_word' id='word_1_1' title='bbox 186 149 235 187; x_wconf 72' lang='lat'><strong>53</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 535 164 572 190; x_wconf 73' lang='grc' dir='ltr'><strong>Ρ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 602 163 727 191; x_wconf 76' lang='lat' dir='ltr'><strong>ovum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 753 164 914 193; x_wconf 70' lang='lat' dir='ltr'>msoms</span> <span class='ocrx_word' id='word_1_5' title='bbox 941 167 1062 194; x_wconf 67' lang='lat' dir='ltr'><strong>usn.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1182 168 1258 198; x_wconf 75' lang='lat' dir='ltr'><strong>m.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1277 158 1355 209; x_wconf 76' lang='lat' dir='ltr'><strong>m]</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 184 257 1273 367">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 184 257 1273 367">
+     <span class='ocr_line' id='line_1_2' title="bbox 184 257 1273 319; baseline 0.008 -26"><span class='ocrx_word' id='word_1_8' title='bbox 184 257 292 294; x_wconf 84' lang='lat' dir='ltr'><strong>Luna</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 312 259 408 307; x_wconf 78' lang='lat' dir='ltr'>regit</span> <span class='ocrx_word' id='word_1_10' title='bbox 428 272 583 297; x_wconf 73' lang='lat' dir='ltr'><strong>menses.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 638 261 764 310; x_wconf 81' lang='lat' dir='ltr'>Hujus</span> <span class='ocrx_word' id='word_1_12' title='bbox 787 275 934 312; x_wconf 85' lang='lat' dir='ltr'>quoque</span> <span class='ocrx_word' id='word_1_13' title='bbox 952 269 1120 314; x_wconf 73' lang='lat' dir='ltr'>tempora</span> <span class='ocrx_word' id='word_1_14' title='bbox 1139 265 1273 319; x_wconf 70' lang='lat' dir='ltr'>mensis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 237 311 972 367; baseline 0.01 -20"><span class='ocrx_word' id='word_1_15' title='bbox 237 311 339 349; x_wconf 80' lang='lat' dir='ltr'>Finit</span> <span class='ocrx_word' id='word_1_16' title='bbox 358 314 550 351; x_wconf 84' lang='lat' dir='ltr'>Aventino</span> <span class='ocrx_word' id='word_1_17' title='bbox 571 314 679 352; x_wconf 80' lang='lat' dir='ltr'>Luna</span> <span class='ocrx_word' id='word_1_18' title='bbox 698 316 854 354; x_wconf 78' lang='lat' dir='ltr'>colenda</span> <span class='ocrx_word' id='word_1_19' title='bbox 867 317 972 367; x_wconf 86' lang='lat' dir='ltr'><strong>jugo.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 667 1404 854 1427">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 667 1404 854 1427">
+     <span class='ocr_line' id='line_1_4' title="bbox 667 1404 854 1427; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 667 1405 742 1427; x_wconf 65' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 768 1404 854 1427; x_wconf 71' lang='lat' dir='ltr'><strong>xm&gt;-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
